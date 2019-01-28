@@ -1,0 +1,1 @@
+<footer class="footer">&copy; KNLTB 2019</footer>
